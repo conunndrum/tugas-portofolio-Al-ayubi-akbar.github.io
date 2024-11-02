@@ -1,0 +1,31 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: rgba(156, 117, 2, 0.49);
+}
+
+h1{
+ color: rgb(163, 84, 84);
+ display: flex;
+ justify-content: center;
+
+}
+.samping{
+    background-color: rgba(159, 57, 57, 0.648);
+    width: 100%;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+a{  
+text-decoration: none;
+}
+
+
+img{
+width: 200px;
+height: 200px;
+}
